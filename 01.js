@@ -7,4 +7,5 @@ let sum = 0
 
 while ( i <= 20) {
     sum += i++;
+    console.log(sum);
 }
